@@ -1,0 +1,1 @@
+export const slogan = "Corriendo por ti!"
